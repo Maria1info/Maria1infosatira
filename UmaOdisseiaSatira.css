@@ -1,0 +1,125 @@
+body{
+
+  background-color: #EEE8AA;
+
+}
+
+li{
+
+	list-style-type: square;}
+
+.font{
+
+  color: orange;
+
+  font-family: cursive;
+
+  text-align: center;
+
+}
+
+.ex{
+
+  font-family: cursive;
+
+  font-size: 20px;
+
+}
+
+.xe{
+
+  font-family: cursive;
+
+  font-size: 15px;
+
+}
+
+.ing{
+
+  border-width: 0px;
+
+  border: black;
+
+  background-color: orange;
+
+  color: white;
+
+  text-align: center;
+
+  font-family: cursive;
+
+}
+
+section{
+
+  text-align: center;
+
+}
+
+h3{
+
+  text-align: center;
+
+}
+
+figure{
+
+  display: flex;
+
+ justify-content: space-between;
+
+ width: 200px;
+
+  height: 200px;
+
+}
+
+hr{
+
+  background-color: orange;
+
+}
+
+.fonte{
+
+    color: orange;
+
+  font-family: cursive;
+
+ font-size: 20px;
+
+ text-align: center;
+
+}
+
+.moda{
+
+ font-family: cursive;
+
+ font-size: 38px;
+
+ color: orange;
+
+ text-align: center;
+
+}
+
+.carro{
+
+   
+
+ text-align: center;
+
+}
+
+.po{
+
+  text-align: center;
+
+  font-family: cursive;
+
+  color: orange;
+
+  font-size: 45px;
+
+}
